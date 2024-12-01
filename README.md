@@ -32,8 +32,6 @@ Die Teilnehmenden sollen nach Abschluss des Workshops in der Lage sein:
 
 ---
 
-## Autor:innen  
-Workshop-Team der Hochschule Kaiserslautern  
 Betreuung: Prof. Dr.-Ing. Jan Conrad
 
 ---  
