@@ -11,7 +11,7 @@ Dieses Repository enthält Beispiele und Übungslösungen für den Workshop *"Ei
 Das Repository enthält:  
 
 **Beispielprojekt**  
-   - Grundlagenprojekt: Einfache Interaktionen (Sekbstzerstörung + Respawn).  
+   - Grundlagenprojekt: Einfache Interaktionen (Selbstzerstörung + Respawn).  
    - Komplexere Szenarien: Teleporter (via Kollisionsevent), Widgets  
  
 
