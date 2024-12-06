@@ -11,8 +11,8 @@ Dieses Repository enthält Beispiele und Übungslösungen für den Workshop *"Ei
 Das Repository enthält:  
 
 **Beispielprojekt**  
-   - Grundlagenprojekt: Einfache Interaktionen (z. B. Lichtschalter).  
-   - Komplexere Szenarien: Bewegungsabläufe, Ereignissteuerung und Animationen.  
+   - Grundlagenprojekt: Einfache Interaktionen (Sekbstzerstörung + Respawn).  
+   - Komplexere Szenarien: Teleporter (via Kollisionsevent), Widgets  
  
 
 ## Zielsetzung  
