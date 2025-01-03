@@ -1,8 +1,14 @@
 # Verwendete Quellen:
 
+Teleport Pad: https://www.fab.com/listings/75443a06-d1d1-4943-b83c-3206a4f12815
+
+WebSource: https://html5up.net/
+
+# Präsentation:
+
 Internet Oma Unreal: https://imgflip.com/i/9abmw1
 
-# Unreal Games Page:
+## Unreal Games Page:
 
 Unreal: https://blog-cdn.codefinity.com/images/e4de8d0f-f084-4c2e-92ed-79741aa78b34_logo.jpg.jpg  
 Ashes of Creation: https://www.pngaaa.com/detail/167824  
@@ -70,10 +76,10 @@ BM Wukong: https://cdn2.steamgriddb.com/logo_thumb/2cb20cf1015104c145ddd098f4820
 
 The rest that was also used in the intro Video see below.  
 
-# Intro video:
+## Intro video:
 Intro video Musik: https://www.youtube.com/watch?v=r5hPCcsdKds&ab_channel=VoSoundsMusic%F0%9F%8E%9C  
 
-## Logos:  
+### Logos:  
 UE: https://www.cleanpng.com/png-unreal-tournament-unreal-engine-4-game-engine-2419998/download-png.html  
 Asa: https://i.namu.wiki/i/4olJ8eF9TPWgg9an75aX0xE3LgwGKHO-CwCOBu9JXxcrLmzmcPsn7wW0nSwxFkNXMrt38u0OWu-zJ0KaMlDUjQ.webp  
 Rocket League: https://www.cleanpng.com/png-rocket-league-championship-series-logo-psyonix-vid-6407948/download-png.html  
@@ -87,7 +93,7 @@ Borderlands3: https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcatnip%2FEGS_2K_O
 Sea of Thieves: https://banner2.cleanpng.com/20180602/gzg/avotcmzlo.webp  
 
 
-## Videos:
+### Videos:
 
 Unreal: https://www.youtube.com/watch?v=QFH9MG8Mnik&ab_channel=DavidBrave  
 Asa: https://www.youtube.com/watch?v=BF8RQ-U-fP0&ab_channel=XboxViewTV  
@@ -101,7 +107,7 @@ Sea of thieves: https://www.youtube.com/watch?v=r5JIBaasuE8&ab_channel=SeaofThie
 Fortnite: https://www.youtube.com/watch?v=Daf1uUXE3-M&ab_channel=GameSpot  
 Borderlands3: https://www.youtube.com/watch?v=l8W1RVPj75w&ab_channel=Throneful  
 
-# Presentation Text and Image Sources (in order of appearance):
+## Presentation Text and Image Sources (in order of appearance):
 
 Blueprint: https://www.flaticon.com/free-icon/blueprint_7627943?term=blueprint&page=1&position=5&origin=search&related_id=7627943  
 Actor: https://www.flaticon.com/free-icon/casting_4514934?term=actor&page=1&position=1&origin=search&related_id=4514934  
@@ -145,12 +151,12 @@ Component Bounds: https://www.flaticon.com/free-icon/bounding-box_17615121?term=
 Widgets: https://www.giantbomb.com/forums/general-discussion-30/horrible-game-interfaces-1783666/  
 
 
-# Unreal Examples:
+## Unreal Examples:
 
 Example Project: https://www.fab.com/listings/4d251261-d98c-48e2-baee-8f4e47c67091  
 Valley of the Ancients: https://dev.epicgames.com/documentation/en-us/unreal-engine/valley-of-the-ancient-sample-game-for-unreal-engine  
 
-# Unreal Dev Sources: 
+## Unreal Dev Sources: 
 
 Most of the Information was gathered using Multiple different sources and Personal experience over the years. Most definitions were taken and or paraphrased from  
 
