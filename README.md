@@ -16,7 +16,7 @@ Das Repository enthält:
  
 
 ## Zielsetzung  
-Die Teilnehmenden sollen nach Abschluss des Workshops in der Lage sein:  
+Die Teilnehmenden sollen nach Abschluss des Workshops die Folgenden Kenntnisse besitzen:  
 - Grundlegende funktionen der Unreal Engine
 - Grundlegende Blueprints zu erstellen und zu debuggen.
 ## Voraussetzungen  
