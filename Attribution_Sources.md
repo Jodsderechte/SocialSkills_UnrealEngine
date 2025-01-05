@@ -149,6 +149,8 @@ Component Bounds: [flaticon](https://www.flaticon.com/free-icon/bounding-box_176
 
 Widgets: [giantbomb](https://www.giantbomb.com/forums/general-discussion-30/horrible-game-interfaces-1783666/)  
 
+Widget Icon: [flaticon](https://www.flaticon.com/free-icon/front-end-programming_11987373?term=ui&page=1&position=12&origin=tag&related_id=11987373)
+
 
 ## Unreal Examples:
 
