@@ -38,7 +38,8 @@ Die Teilnehmenden sollen nach Abschluss des Workshops die folgenden Kenntnisse b
 
 Betreuung: Prof. Dr.-Ing. Jan Conrad
 
-Quellen der Präsentation: [hier](https://github.com/Jodsderechte/SocialSkills_UnrealEngine/blob/master/Attribution_Sources.md)
+Bilder der Präsentationen sind nicht von mir Lizenziert sondern von erxternen Quellen.
+Quellen der Bilder entsprechend: [hier](https://github.com/Jodsderechte/SocialSkills_UnrealEngine/blob/master/Attribution_Sources.md)
 
 ---  
 
