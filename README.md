@@ -33,7 +33,7 @@ Die Teilnehmenden sollen nach Abschluss des Workshops die folgenden Kenntnisse b
    git clone https://github.com/Jodsderechte/SocialSkills_UnrealEngine.git  
    ```  
 2. Öffne das enthaltenen Unreal-Projekte in der Unreal Engine.  
-
+3. Schaue die Präsentation ab und erledige die Aufgaben. [Webversion](https://florian-reichle.de/SocialSkills_UnrealEngine/WebSource/Project.html)
 ---
 
 Betreuung: Prof. Dr.-Ing. Jan Conrad
