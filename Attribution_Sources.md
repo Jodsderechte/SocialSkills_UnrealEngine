@@ -1,7 +1,7 @@
 # Verwendete Quellen:
 
-Teleport Pad: [Fab](https://www.fab.com/listings/75443a06-d1d1-4943-b83c-3206a4f12815)
-
+Teleport Pad: [Fab](https://www.fab.com/listings/75443a06-d1d1-4943-b83c-3206a4f12815) licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Teleport sound: [pixaby](https://pixabay.com/de/sound-effects/search/teleport/)
 WebSource: [Template](https://html5up.net/)
 
 # Präsentation:
